@@ -1,0 +1,13 @@
+/* update price box */
+.price_upadate_box {
+  width: 50%;
+}
+.total_price_border {
+  border-bottom: 4px solid rgb(62, 47, 77);
+}
+
+/* promo code input */
+#promoCodeText {
+  width: 100%;
+  height: 35px;
+}
